@@ -46,3 +46,5 @@ To access and use the project, follow these steps:
 2. Set up the necessary database environment, in this project should be **SQL Server 2023**
 3. Execute the SQL scripts in the provided `sql` directory to create the database schema and populate data.
 
+## Conclusion
+For more details of this project, please view the `Project Report` documentation
