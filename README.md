@@ -1,4 +1,4 @@
-# Pharmacy Management System - PTIT University - Database Fundamentals Project
+# Pharmacy Management System - PTIT - Database Fundamentals Project
 
 ## Project Overview
 
